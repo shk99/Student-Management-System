@@ -1,7 +1,6 @@
 # Student-Management-System #
 
 This is a console application in which Students can :
-*Register
-*View Courses
-*Apply for a Course.
-
+1. **Register**
+2. **View Courses**
+3. **Apply for a Course.**
