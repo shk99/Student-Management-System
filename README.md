@@ -12,4 +12,7 @@ Admins can
 
 
 
-The following console application is implemented
+The following console application is implemented using :
+
+1. **Python3**
+2. **MySQL**
